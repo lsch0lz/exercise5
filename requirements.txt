@@ -1,0 +1,5 @@
+torch
+scipy<1.13
+matplotlib
+tqdm
+pytest

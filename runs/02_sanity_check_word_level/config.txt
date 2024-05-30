@@ -1,0 +1,15 @@
+Configuration:
+- seed: 0
+- device: cpu
+- dataset: sanity_check
+- character_level: False
+- num_epochs: 70
+- embedding_size: 64
+- unk_threshold: 2
+- minibatch_size: 32
+- rnn_hidden_size: 150
+- learning_rate: 0.33126173343219845
+- num_layers: 4
+- truncate_length: 256
+- info: lsch0lz
+- random_params: ('num_layers', 'learning_rate')
